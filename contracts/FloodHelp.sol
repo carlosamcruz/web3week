@@ -1,5 +1,20 @@
 // SPDX-License-Identifier: MIT
 
+
+/*
+    Exercicios:
+
+    1 - validações na criação de request (campos e duplicidade de author se request aberta);
+    2 - validação na doação para não doar 0;
+    3 - validação no getOpenRequests (quantidade máxima);
+    4 - admin do contrato pode fechar requests suspeitas;
+    5 - mais algum campo na struct, ex.: total de doações;
+    6 - request ter um status, aí quando cadastrada, fica pendente e admin tem de aprovar;
+    7 - blacklists de carteiras (admin pode cadastrar carteiras bloqueadas);
+    8 - não permitir doar para request muito antiga (fecha automaticamente por tempo);
+
+*/
+
 pragma solidity ^0.8.24;
 
 struct Request {

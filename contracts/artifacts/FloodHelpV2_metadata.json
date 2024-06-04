@@ -312,19 +312,6 @@
 				],
 				"stateMutability": "view",
 				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "tmst",
-				"outputs": [
-					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
 			}
 		],
 		"devdoc": {
@@ -355,11 +342,11 @@
 	},
 	"sources": {
 		"contracts/FloodHelpV2.sol": {
-			"keccak256": "0x32ff8ed4803d284c677f57e185e420530946e675bfc32aed56b91808b6a7b93a",
+			"keccak256": "0x159efe1958107a920c01ecdda158bca5149524c9bebaf40ee6494334b8bb3652",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://93d7e88a56d3a5692885246b017b5783281cb3a564d89db40b403ff76ad7303b",
-				"dweb:/ipfs/QmQttwG9qxpi2Nj7rPEHni1gmNcjJZ733DPY6s1N3yvyxF"
+				"bzz-raw://d157393ee6719ea9c377e1df035cfa6a7e1a0baeaae4c7f1ae855e3ff49db6af",
+				"dweb:/ipfs/QmXkXScFgA9pmGCcRHTpywBBvMXghLU8RAeXHJzppRvdm2"
 			]
 		}
 	},
